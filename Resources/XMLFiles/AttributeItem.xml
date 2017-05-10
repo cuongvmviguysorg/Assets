@@ -1,0 +1,67 @@
+<Items>
+  <Item id="1"  gems="Magic Gem of Strength"        ratio="4" script="Physical Damage and Phy. Balance increased" attribute="Strength" min="1" max="10" slot="All"/>
+  <Item id="2"  gems="Magic Gem of Intelligence"    ratio="4" script="Magic Damage and Mag. Balance increased" attribute="Intelligence" min="1" max="10" slot="All"/>
+  <Item id="3"  gems="Magic Gem of Dexterity"       ratio="1" script="Bonus to Critical Damage increased" attribute="Critical damage" min="1" max="5" slot="Weapon"/>
+  <Item id="4"  gems="Magic Gem of Focus"           ratio="1" script="Chance to Multicast increased" attribute="Multicast chance" min="1" max="5" slot="Weapon"/>
+  <Item id="5"  gems="Magic Gem of Immortality"     ratio="1" script="Chance to dodge attacks increased" attribute="Dodge chance" min="1" max="5" slot="Head,Armor,Leg"/>
+  <Item id="6"  gems="Magic Gem of Endurance"       ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="7"  gems="Magic Gem of Stamina"         ratio="4" script="HP increased" attribute="Healh" min="1" max="5" slot="Head,Armor,Leg"/>
+  <Item id="8"  gems="Magic Gem of Sophistication"  ratio="1" script="Enemy shield's block rate decreased" attribute="Breaks Shield" min="1" max="5" slot="Weapon"/>
+  <Item id="9"  gems="Magic Gem of Shield"          ratio="1" script="Chance to be strucked by Critical Hit decreased" attribute="Breaks Weapon" min="1" max="5" slot="Shield"/>
+  
+  <Item id="10" gems="Magic Gem of Repulsion"       ratio="2" script="Chance to Knock back enemy increased" attribute="Knock back chance" min="5" max="20" slot="Weapon"/>
+  <Item id="11" gems="Magic Gem of Holder"          ratio="2" script="Chance to Bind enemy increased" attribute="Bind chance" min="5" max="20" slot="Weapon"/>
+  <Item id="12" gems="Magic Gem of Dazzle"          ratio="2" script="Chance to Blind enemy increased" attribute="Blind chance" min="5" max="20" slot="Weapon"/>
+  <Item id="13" gems="Magic Gem of Silence"         ratio="2" script="Chance to Silence enemy increased" attribute="Silence chance" min="5" max="20" slot="Weapon"/>
+  <Item id="14" gems="Magic Gem of Freezing"        ratio="2" script="Chance to Freeze enemy increased" attribute="Freezing chance" min="5" max="20" slot="Weapon"/>
+  <Item id="15" gems="Magic Gem of Incandescence"   ratio="2" script="Chance to Shock enemy increased" attribute="Shock chance" min="5" max="20" slot="Weapon"/>
+  <Item id="16" gems="Magic Gem of Combustion"      ratio="2" script="Chance to Burn enemy increased" attribute="Burn chance" min="5" max="20" slot="Weapon"/>
+  <Item id="17" gems="Magic Gem of Venom"           ratio="2" script="Chance to Poison enemy increased" attribute="Poison chance" min="5" max="20" slot="Weapon"/>
+  
+  <Item id="18" gems="Magic Gem of Melt"            ratio="2" script="Freezing Duration Reduced" attribute="Freezing Duration Reduced" min="20" max="80" slot="Necklace"/>
+  
+  <Item id="19" gems="Magic Gem of Protection"      ratio="2" script="Electric shock Duration Reduced" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="20" gems="Magic Gem of Air"             ratio="2" script="Burn Duration Reduced" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="21" gems="Magic Gem of Immunity"        ratio="2" script="Poisoning Duration Reduced" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="22" gems="Magic Gem of Recovery"        ratio="2" script="Disease Duration Reduced" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="23" gems="Magic Gem of Iron Heart"      ratio="2" script="Fear Duration Reduced" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="24" gems="Magic Gem of Stability"       ratio="2" script="Knock back Resistance increased" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="25" gems="Magic Gem of Escape"          ratio="2" script="Immobilization Resistance increased" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="26" gems="Magic Gem of Clarity"         ratio="2" script="Blindness Resistance increased" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="27" gems="Magic Gem of Memories"        ratio="2" script="Dementia Resistance increased" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="28" gems="Magic Gem of Excitement"      ratio="2" script="Sleep resistance increased" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="29" gems="Magic Gem of Abyss"           ratio="2" script="Glamour resistance increased" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="30" gems="Magic Gem of Guardian"        ratio="0" script="Stun resistance increased" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  
+  
+  
+  
+  
+  
+  
+  <Item id="31" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="32" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="33" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="34" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="35" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="36" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="37" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="38" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="39" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="40" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="41" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="42" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="43" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="44" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="45" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="46" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="47" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="48" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="49" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="50" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="51" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="52" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="53" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="54" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+  <Item id="55" gems="Magic Gem of Endurance" ratio="1" script="Reduces damage taken from any source" attribute="All damage reduces" min="1" max="5" slot="Shield"/>
+</Items>
